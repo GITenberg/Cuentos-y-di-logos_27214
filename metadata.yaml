@@ -1,0 +1,36 @@
+_repo: Cuentos-y-di-logos_27214
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Valera, Juan
+    aliases:
+    - Galiano, Juan Valera y Alcalá
+    - Galiano, Juan Valera y Alcala
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '4923'
+    url: http://www.gutenberg.org/2009/agents/4923
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Juan_Valera_y_Alcala_Galiano
+    - http://es.wikipedia.org/wiki/Juan_Valera
+description: ''
+gutenberg_issued: '2008-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27214'
+  lccn: '03017635'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction'
+- !lcc 'PQ'
+- !lcsh 'Spanish drama'
+tableOfContents: El pájaro verde -- Parsondes -- El bermejino prehistórico o las salamandras
+  azules -- Asclepigenia -- Gopa -- Santa.
+title: Cuentos y diálogos
+url: http://www.gutenberg.org/ebooks/27214
